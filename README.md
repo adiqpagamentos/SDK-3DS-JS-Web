@@ -1,4 +1,4 @@
-# teste
+# SDK 3DS 2.0 em JavaScript
 
 Para utilizar os arquivos é necessário baixá-los e substituir os arquivos pelos mais recentes a cada atualização de código
 
