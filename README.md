@@ -4,8 +4,8 @@ Para utilizar os arquivos é necessário baixá-los e substituir os arquivos pel
 
 OBS: É altamente não recomendada a utilização via referência de DNS devido a erros não esperados durante as atualizações.
 
-Mais detalhes em https://developers.adiq.io/manual/threeds
+Mais detalhes em nosso [Portal Desenvolvedores](https://developers.adiq.io/manual/threeds#-implementao-sdk-android-)
 
-Produção: adiq-3ds-package-1.0.2-min.zip
+**Produção**: adiq-3ds-package-1.0.2-min.zip
 
-Homologação: adiq-3ds-package-hml-1.0.2-min.zip
+**Homologação**: adiq-3ds-package-hml-1.0.2-min.zip
