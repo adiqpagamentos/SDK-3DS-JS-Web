@@ -13,8 +13,8 @@ Mais detalhes em nosso [Portal Desenvolvedores](https://developers.adiq.io/manua
 # CHANGELOG
 
 - Versão: 1.0.2
-    Data Início: Atual
-    Expiração: Dez/2025
+    - Data Início: Atual
+    - Expiração: Dez/2025
 - Versão: 1.0.3
-    Data Início: Jul/2025
-    Expiração: Jul/2026
+    - Data Início: Jul/2025
+    - Expiração: Jul/2026
