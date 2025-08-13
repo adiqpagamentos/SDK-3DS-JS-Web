@@ -6,6 +6,15 @@ OBS: É altamente não recomendada a utilização via referência de DNS devido 
 
 Mais detalhes em nosso [Portal Desenvolvedores](https://developers.adiq.io/manual/threeds#-implementao-javascript-)
 
-**Produção**: adiq-3ds-package-1.0.2-min.zip
+**Produção**: adiq-3ds-package-1.0.3-min.zip
 
-**Homologação**: adiq-3ds-package-hml-1.0.2-min.zip
+**Homologação**: adiq-3ds-package-hml-1.0.3-min.zip
+
+# CHANGELOG
+
+- Versão: 1.0.2
+  Data Início: Atual
+  Expiração: Dez/2025
+- Versão: 1.0.3
+  Data Início: Jul/2025
+  Expiração: Jul/2026
