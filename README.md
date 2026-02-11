@@ -22,4 +22,7 @@ Mais detalhes em nosso [Portal Desenvolvedores](https://developers.adiq.io/manua
     - Data Início: Jul/2025
     - Expiração: Jul/2026
     - Remoção da obrigatoriedade do JQuery
-    - Novo padrão de versionamento semântico: MAJOR.MINOR.PATCH    
+    - Novo padrão de versionamento semântico: MAJOR.MINOR.PATCH
+- Versão: 1.2.0
+    - Data Início: Out/2025
+    - Expiração: Mar/2027
